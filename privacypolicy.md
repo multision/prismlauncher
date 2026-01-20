@@ -6,57 +6,57 @@ Prism respects your privacy. This Privacy Policy explains what information we co
 
 ## Information We Collect
 
-Prism is designed to function with **minimal personal data**.
+Prism is designed to operate with **minimal personal data**.
 
 We may collect:
 
 - **Basic app analytics**
   - App version
   - Device type and OS version
-  - Anonymous usage events (e.g. feature usage, error reports)
+  - Anonymous usage events (such as feature usage and error diagnostics)
 
 - **Optional identifiers**
   - A Minecraft username or identifier, if you choose to provide one
-  - This is used only to personalize in-app experiences
+  - Used only for personalization and display purposes within the app
 
 Prism **does not collect**:
 - Real names
 - Email addresses
 - Passwords
+- Minecraft or CurseForge account credentials
 - Payment information
-- Minecraft account credentials
 
 ## How Information Is Used
 
-Collected data is used to:
-- Improve app stability and performance
-- Display relevant in-app content (news, server lists)
-- Measure feature usage and adoption
+Information is used to:
+- Improve app performance and reliability
+- Display relevant library, news, and server content
+- Understand feature usage trends
 
-We do **not** sell, rent, or trade user data.
+We do **not** sell, rent, or share personal data for advertising purposes.
 
 ## Third-Party Services
 
-Prism may interact with third-party providers (such as content APIs or analytics services). These providers may collect limited technical data under their own privacy policies.
+Prism integrates with third-party services, including **CurseForge**, to retrieve add-on metadata and content listings.
 
-See **Provider Attributions** for more details.
+These services may collect limited technical data under their own privacy policies. Prism does not control or store data collected directly by third parties.
 
 ## Data Storage & Security
 
-- All backend services are hosted securely
-- No sensitive personal data is stored
-- Communications use encrypted connections where applicable
+- Backend services are securely hosted
+- Only non-sensitive metadata is stored
+- Network requests use encrypted connections where applicable
 
 ## Your Choices
 
 You may:
 - Use Prism without providing optional identifiers
-- Disable analytics where supported by your device or OS
+- Control analytics permissions through system settings where available
 
 ## Changes
 
-This policy may be updated periodically. Continued use of Prism means acceptance of the updated policy.
+This policy may be updated from time to time. Continued use of Prism indicates acceptance of the current version.
 
 ## Contact
 
-If you have questions about privacy, please contact the Prism team through the official app or website.
+For questions regarding privacy, please contact the Prism team through official channels.
